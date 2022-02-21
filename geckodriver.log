@@ -1,0 +1,173 @@
+1645466637579	geckodriver	INFO	Listening on 127.0.0.1:52724
+1645466640734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52725" "-no-remote" "-profile" "C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileaefKJc"
+1645466648760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileaefKJc\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:52725/devtools/browser/4e274b21-0714-47c9-a1dc-9d0568b0faaf
+1645466676830	Marionette	INFO	Listening on port 52732
+1645466677401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645466873956	Marionette	INFO	Stopped listening on port 52732
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52889" "-no-remote" "-profile" "C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileKMHdTK"
+1645466823459	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileKMHdTK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52889/devtools/browser/064620b5-c31a-4ecf-b329-6320e150d0a9
+1645466829863	Marionette	INFO	Listening on port 52898
+1645466829998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645466872111	Marionette	INFO	Stopped listening on port 52898
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 9788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645467074583	geckodriver	INFO	Listening on 127.0.0.1:53144
+1645467077609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53145" "-no-remote" "-profile" "C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileDKSuMU"
+1645467081449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileDKSuMU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53145/devtools/browser/a3042443-51fa-4e77-8cac-c84a1dd7a64f
+1645467090752	Marionette	INFO	Listening on port 53152
+1645467091851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645467269789	geckodriver	INFO	Listening on 127.0.0.1:53304
+1645467272850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53305" "-no-remote" "-profile" "C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileO3qLE3"
+1645467273262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileO3qLE3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53305/devtools/browser/4675a4b0-dfa0-4241-8916-bc7f0ed8ac30
+1645467278575	Marionette	INFO	Listening on port 53312
+1645467278747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645467354960	geckodriver	INFO	Listening on 127.0.0.1:53476
+1645467357984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53477" "-no-remote" "-profile" "C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileE7x9Dt"
+1645467358494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileE7x9Dt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53477/devtools/browser/eb7c274d-70da-47b1-b235-6769456b1831
+1645467363843	Marionette	INFO	Listening on port 53484
+1645467363873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645467899307	Marionette	INFO	Stopped listening on port 53484
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51878" "-no-remote" "-profile" "C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileV9VgZz"
+1645467657464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileV9VgZz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51878/devtools/browser/ca1e0dc3-5247-4c34-b0dd-a76f23d5e2ff
+1645467664309	Marionette	INFO	Listening on port 51887
+1645467664349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645467901073	Marionette	INFO	Stopped listening on port 51887
+[Parent 7008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+7748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofilecHGdaQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52206/devtools/browser/7fee7898-6bc9-491f-bb6c-1278b8b0ecaa
+1645467906112	Marionette	INFO	Listening on port 52214
+1645467906167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/HK-RHJkrMcq.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645468622243	Marionette	INFO	Stopped listening on port 52214
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+mp\\rust_mozprofileQ15jZc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53193/devtools/browser/080b93c8-4aa1-4a2a-a643-a6d1045d680f
+1645468611265	Marionette	INFO	Listening on port 53201
+1645468611433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/HK-RHJkrMcq.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQKL4/yD/l/sw_KE/w2gstXUqQme.js?_nc_x=MM4tVR4ACRA, line 165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 11984, MediaDecoderStateMachine #1] WARNING: 1a69f044ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11984, MediaDecoderStateMachine #1] WARNING: 1a6a6374740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645468680477	Marionette	INFO	Stopped listening on port 53201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645469103930	geckodriver	INFO	Listening on 127.0.0.1:54558
+1645469106945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54559" "-no-remote" "-profile" "C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileaWBmx7"
+1645469107429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileaWBmx7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54559/devtools/browser/7be999b9-10cd-4304-935a-6cc80544c3a5
+1645469112785	Marionette	INFO	Listening on port 54565
+1645469112840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/HK-RHJkrMcq.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQKL4/yD/l/sw_KE/w2gstXUqQme.js?_nc_x=MM4tVR4ACRA, line 165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQKL4/yD/l/sw_KE/w2gstXUqQme.js?_nc_x=MM4tVR4ACRA, line 165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[Child 11988, MediaDecoderStateMachine #1] WARNING: 1f65325ad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11988, MediaDecoderStateMachine #1] WARNING: 1f657b7eba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645469556670	Marionette	INFO	Stopped listening on port 54565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\root\\AppData\\Local\\Temp\\rust_mozprofileJc2euI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55297/devtools/browser/a7ce6ee3-98d1-4c3a-8566-94887516afde
+1645469559887	Marionette	INFO	Listening on port 55303
+1645469559999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yc/l/en_GB/HK-RHJkrMcq.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iQKL4/yD/l/sw_KE/w2gstXUqQme.js?_nc_x=MM4tVR4ACRA, line 165: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645469638889	Marionette	INFO	Stopped listening on port 55303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
